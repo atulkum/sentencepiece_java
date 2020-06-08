@@ -1,4 +1,4 @@
-# sentencepiece_java
+# sentencepiece java wrapper
 A minimal Java wrapper for google sentencepiece library (https://github.com/google/sentencepiece)
 
 Currenlty this support only decode methods. It is easy to add additional sentencepiece methods in the same way.
